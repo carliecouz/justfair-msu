@@ -1,4 +1,4 @@
-MODULENAME = mypackage 
+MODULENAME = Just_Fair 
 
 help:
 	@echo ""
