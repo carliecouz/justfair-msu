@@ -33,9 +33,12 @@ Collecting and analyzing data in conjunction with JUSTFAIR.<br><br>
 
 Background, Boundaries:<br>
 Data Science Majors<br>
-Stay within the allotted meeting time<br>
-Stick to deadlines<br>
-Communicate personal timelines; don’t take on too much for one person<br><br>
+Python, R, C++<br>
+Also: Matlab, Ruby, JAVA<br>
+Lab experience / Research experience<br>
+Machine Learning Experience / Knowledge<br>
+HPC experience<br><br>
+
 
 Team Strategy:<br>
 Dividing up work between team members who will work independently to complete tasks. If necessary, some tasks will be shared among team members to work on together.<br><br>
@@ -47,7 +50,10 @@ Update Dirk and Jude as necessary but at minimum every other week.<br><br>
 Ground Rules:<br>
 Everyone’s opinion is important; listen to others.<br>
 Remember social anxiety; recognize the tendency to get off task (timekeeper is very important!)<br>
-Next meeting’s roles assigned at the end of each meeting.<br><br>
+Next meeting’s roles assigned at the end of each meeting.
+Stay within the allotted meeting time<br>
+Stick to deadlines<br>
+Communicate personal timelines; don’t take on too much for one person<br><br>
 
 Membership, Meetings, Reports:<br>
 Every Friday at 12:00 (subject to change).<br>
