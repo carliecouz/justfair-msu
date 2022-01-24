@@ -32,6 +32,7 @@ Team Scope:<br>
 Collecting and analyzing data in conjunction with JUSTFAIR.<br><br>
 
 Background, Boundaries:<br>
+Data Science Majors<br>
 Stay within the allotted meeting time<br>
 Stick to deadlines<br>
 Communicate personal timelines; don’t take on too much for one person<br><br>
