@@ -24,16 +24,17 @@ The first thing to do after downloading Tableau is connecting a dataset so you c
 
 ## Jupyter Notebook Requirements/Installation Instructions:
 
-######  Python installation tutorial if not already installed:
+####  Python installation tutorial if not already installed:
 
 If you do not already have python installed, you will need to visit the website below. Once on the site, scroll to the bottom of the page and will see the section called files. There you can download python (Recommended 64-bit) for windows or MacOS. Next, you can move on to the pip installation information. 
-* Note that Python version (updated to vers. 3.7) or later is needed
 
-    * [Python Download](https://www.python.org/downloads/release/python-3102/)
+**Note:**  Python version (updated to vers. 3.7) or later is needed
+
+   * [Python Download](https://www.python.org/downloads/release/python-3102/)
 
 
 
-###### Pip installation tutorial:
+#### Pip installation tutorial:
 
    First you want to search the computer for its command promt on windows or command terminal on Mac OS. 
    
@@ -54,7 +55,7 @@ python --version
     Python 3.8.8
     
 
-###### Jupyter Notebook Pip install Instructions:
+#### Jupyter Notebook Pip install Instructions:
 
 After updating pip and downloading python, type the following command in the terminal/promt to install Jupyter notebook:
 
@@ -71,3 +72,55 @@ jupyter notebook
 ```
 
 That's it! You will be redirected to the juypter notebook page
+
+
+
+#### Required Modules/Package Instructions within Jupyter Notebook :
+
+This projects has 5 requirements
+
+The next three require a pip installation along with importing within the juypter notebook you previuosly installed and opened.
+
+* For numpy: Mathmatical arrays and mathmatical operations
+      
+In the cell (make sure the cell is set to code and not markdown), type in the two instructions below:
+```
+! pip install numpy
+```
+```
+import numpy as np
+```
+
+* For Matplotlib: Data visualization and graphical plotting 
+
+Open a new cell by clicking insert at top of page and select 'Insert cell below'. Make sure the cell is set to code and not markdown. Type in the two instructions below:
+```
+! pip install matplotlib
+```
+```
+import  matplotlib.pyplot as plt
+```
+
+* For Pandas: Python Data Analysis Library
+
+Open a new cell by clicking insert at top of page and select 'Insert cell below'. Make sure the cell is set to code and not markdown. Type in the two instructions below:
+```
+! pip install pandas
+```
+```
+import pandas as pd
+```
+
+Next we will look at json and urllib.request: Transfer data as text over a netwokr and Extensible library for opening URLs
+
+   * Take note that both are a built-in module, you do not need to install either of them with pip just import. Open a new cell by clicking insert at top of page and select 'Insert cell below'. Make sure the cell is set to code and not markdown. Type in the two instructions below:
+```
+import json
+```
+```
+import urllib.request
+```
+
+
+
+You now have everything needed to view and explore our project!!
