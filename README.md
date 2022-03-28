@@ -9,3 +9,6 @@ https://docs.google.com/presentation/d/1sulaVDNW2jsRnMMK1XvXvvhuld6qhP7Z8eS1-zn_
 
 # Project Proposal Video
 https://youtu.be/Hj-XbRFZPq8
+
+# Figure Reproducibilty Files
+https://github.com/carliecouz/justfair-msu/tree/master/Figure%20Reproducibility
