@@ -14,6 +14,6 @@ Carlie Couzens, Alice Krupczak, Jaclyn Frishcosy, Tyus Walker
 # Project Proposal Video:
    * [Proposal Video](https://youtu.be/Hj-XbRFZPq8)
 
-# Figure Reproducibilty Files:
+# Figure Reproducibility Files:
 Description.....
    * [Figure Reproducibilty](https://github.com/carliecouz/justfair-msu/tree/master/Figure%20Reproducibility)
