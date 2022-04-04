@@ -1,6 +1,9 @@
-  # QSIDE/Justfair MSU Project    
+# QSIDE/Justfair MSU Project    
 # Team Names:
 Carlie Couzens, Alice Krupczak, Jaclyn Frishcosy, Tyus Walker  
+
+# Project Description: 
+.....
 
 # Meeting Agendas and Notes:
    * [Meetings](https://docs.google.com/document/d/12Q2SR964-hz4A1ZrDzMtf2SdM85kjqu0hHlqobD_eGw/edit?usp=sharing)
@@ -12,4 +15,5 @@ Carlie Couzens, Alice Krupczak, Jaclyn Frishcosy, Tyus Walker
    * [Proposal Video](https://youtu.be/Hj-XbRFZPq8)
 
 # Figure Reproducibilty Files:
+Description.....
    * [Figure Reproducibilty](https://github.com/carliecouz/justfair-msu/tree/master/Figure%20Reproducibility)
