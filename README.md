@@ -14,6 +14,9 @@ This project seeks to collect and analyze data regarding judicial sentences in t
 # Project Proposal Video:
    * [Proposal Video](https://youtu.be/Hj-XbRFZPq8)
 
-# Figure Reproducibilty Files:
+# Figure Reproducibility Files:
 Figures analyzing MN data, Michigan Court of Appeals data. 
-   * [Figure Reproducibilty](https://github.com/carliecouz/justfair-msu/tree/master/Figures)
+   * [Figure Reproducibility](https://github.com/carliecouz/justfair-msu/tree/master/Figures)
+   
+# Future Work Report:
+   * [Future Work](https://github.com/carliecouz/justfair-msu/blob/master/docs/Future_Work_Report.docx)
