@@ -97,9 +97,10 @@ https://drive.google.com/drive/u/1/folders/0AIw1CPHAVPztUk9PVA
  We sent a FOIA request on 5/14/2022. We expect to hear back within a week. The data procurement could take upwards of a few months.
  
 ## Concluding Discussion and Future Work
-This section should summarize what the project did and what conclusions you can make from the results. Teams should also include ideas for future work.
- 
-Although the judicial data proved more difficult to procure than anticipated, the group made strides towards
+Although the judicial data proved more difficult to procure than anticipated, the group made strides towards obtaining this court data. A FOIA request was filed to the state of Michigan, and a list of all 57 circuit courts in Michigan and their corresponding websites was compiled. We explored similar data from Minnesota as well in order to better understand what kinds of visualizations are best, so this work can be applied to the Michigan data once it is in a usable format.
+	
+	Next steps include, but are not limited to, procuring the data provided by the FOIA request, analyzing the data for links between sentencing lengths and characteristics of the defendant, and web scraping the data from the circuit court websites if needed. An intriguing future project would be extending the JUSTFAIR project to local police departments. The purpose of this would be to examine data for potential biases in policing behavior. More details are included in the Future Works section of the team’s Github repository.
+
  
 ## Acknowledgements
 QSIDE Institute
