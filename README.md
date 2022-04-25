@@ -20,3 +20,6 @@ Figures analyzing MN data, Michigan Court of Appeals data.
    
 # Future Work Report:
    * [Future Work](https://github.com/carliecouz/justfair-msu/blob/master/docs/Future_Work_Report.docx)
+
+# Final Presentation Video:
+  * [Final Presentation](https://youtu.be/7GFlrLRXYJE)
