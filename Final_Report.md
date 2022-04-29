@@ -31,15 +31,27 @@ While web scraping the court of appeals data, Minnesota court sentencing data wa
   - Person, drugs, and property are the top offense types in district 1.
   - White people are more likely to plead guilty and black is second.
   - Men have a higher crime rate and severity committed
-  
+ 
+![Test Image 1](Severity_crime.png)
+
+ The visual above shows severity of crime from the Minnesota data. You can see that Men have a higher percentage for commiting severe crimes. 
+
+![Test Image 1](State_plea_guilty_byrace.png)     ![Test Image 1](District1_offense_types.png)
+
+ The pie chart above shows data from Minnisota. You can see for plea guilty by race that white makes 58.9 percent. For district 1, property and drugs are the most common offenses. 
+The team created two visualizations from the web scraped data.  
+
+
+
 ### Web scraped data:
 
-The visual above shows severity of crime from the Minnesota data. You can see that Men have a higher percentage for commiting severe crimes.
- 
-The pie chart above shows data from Minnesota. You can see for plea guilty by race that white makes 58.9 percent. For district 1, property and drugs are the most common offenses. 
-The team created two visualizations from the web scraped data. The first visualization is a histogram that shows the frequency each type of court is used.
+![Test Image 1](Originofcourt_inmichigan_supremecourt_and_appeals.png)  
 
-The second visualization that we made is a scatterplot that shows the overall trend or court filings per day.
+ The first visualization is a histogram that shows the frequency each type of court is used.
+
+![Test Image 1](Number_of_courtfilings_perday.png)  
+
+ The second visualization that we made is a scatterplot that shows the overall trend or court filings per day.
 
 
 
