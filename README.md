@@ -23,3 +23,6 @@ Figures analyzing MN data, Michigan Court of Appeals data.
 
 # Final Presentation Video:
   * [Final Presentation](https://youtu.be/7GFlrLRXYJE)
+
+# Final Report:
+  * [Report](https://github.com/carliecouz/justfair-msu/blob/master/Final_Report.pdf)
